@@ -21,5 +21,24 @@ OpenSceneGraph (https://www.openscenegraph.com/) - Framework, Modified LGPL2.
 
 The OpenSceneGraph is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling. Written entirely in Standard C++ and OpenGL.
 
+GB Studio (https://www.gbstudio.dev/) - 2D, MIT.
+
+GB Studio began as number of disconnected scripts and tools which were eventually used to create Untitled GB Game, a game built in one week for Bored Pixels 3, a pixel art game jam where the theme was "Game Boy
+
+Orx (https://github.com/orx/orx) - 2D zlib.
+
+Orx is a 2D-oriented, data-driven, portable game engine focused primarily on ease of use and powerful features.
+
+Bitmelo (https://bitmelo.com/) - 2D, MIT.
+
+Bitmelo is a game editor and engine for making pixel games in your browser.
+
+Godot (https://godotengine.org/) - 3D, MIT.
+
+Godot Engine is a cross-platform, free, and open-source game engine used to create 2D and 3D games and applications.
+
+Frostbite (https://www.ea.com/frostbite) - 3D, Proprietary.
+
+The first generation of Frostbite was designed and built in conjunction with the game Battlefield Bad Company. Based on DICE’s experience with the large scale open world Battlefield series, Frostbite was an ambitious game engine that enabled large scale multiplayer interactions in dynamic destructible environments.
 
 
