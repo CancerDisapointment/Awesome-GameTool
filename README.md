@@ -42,3 +42,61 @@ Frostbite (https://www.ea.com/frostbite) - 3D, Proprietary.
 The first generation of Frostbite was designed and built in conjunction with the game Battlefield Bad Company. Based on DICE’s experience with the large scale open world Battlefield series, Frostbite was an ambitious game engine that enabled large scale multiplayer interactions in dynamic destructible environments.
 
 
+# Game Dev Career Paths
+a list of 10 career paths
+
+Gameplay Programming
+
+Description: Gameplay programmers implement the core mechanics and features of the game, working closely with designers to bring the game vision to life. They handle player controls, movement, interaction, and game rules.
+Job Titles: Gameplay Programmer, Mechanics Programmer, Scripter.
+
+AI Programming
+
+Description: AI programmers develop the behavior of non-player characters (NPCs), including pathfinding, decision-making, and dynamic reactions to player actions. They often use techniques like finite state machines, behavior trees, and machine learning.
+Job Titles: AI Programmer, AI Developer, NPC Behavior Specialist.
+
+Physics Programming
+
+Description: Physics programmers simulate real-world physical interactions in the game, including collision detection, ragdoll physics, object interaction, and environmental effects like gravity or water simulation.
+Job Titles: Physics Programmer, Simulation Engineer, Dynamics Developer.
+
+Graphics Programming
+
+Description: Graphics programmers optimize rendering techniques, shaders, and lighting to ensure the game runs smoothly and looks visually stunning. This includes working with engines to create realistic lighting, shadows, and textures.
+Job Titles: Graphics Programmer, Shader Developer, Rendering Engineer.
+
+Network Programming
+
+Description: Network programmers handle the multiplayer and online components of the game, ensuring data synchronization between players and managing server-client architecture to prevent issues like lag and cheating.
+Job Titles: Network Programmer, Multiplayer Engineer, Online Systems Developer.
+
+Audio Programming
+
+Description: Audio programmers integrate sound effects, music, and voiceovers into the game. They ensure that audio cues trigger at the right time and that sound interacts correctly with the game’s environment.
+Job Titles: Audio Programmer, Sound Systems Developer, Audio Integration Engineer.
+
+Tools Programming
+
+Description: Tools programmers create software and tools that enable other developers, such as designers and artists, to build and modify the game efficiently. This can include level editors, asset management systems, and debugging tools.
+Job Titles: Tools Programmer, Engine Tools Developer, Pipeline Engineer.
+
+Engine Programming
+
+Description: Engine programmers develop and optimize the game engine, the core software that runs all elements of the game. They handle memory management, performance optimization, and custom engine features.
+Job Titles: Engine Programmer, Core Systems Engineer, Game Engine Developer.
+
+UI Programming
+
+Description: UI programmers focus on creating and managing the game's user interface. They work closely with designers to implement menus, HUDs, and in-game indicators that players interact with.
+Job Titles: UI Programmer, Front-End Developer, HUD Developer.
+
+Scripting and Automation
+
+Description: Scripting programmers create automated scripts that allow developers to build and test the game more efficiently. They might script behaviors for NPCs, events, or automate repetitive tasks in the development process.
+Job Titles: Script Programmer, Automation Developer, Technical Scripter.
+
+
+
+
+
+
